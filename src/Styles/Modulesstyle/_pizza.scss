@@ -1,0 +1,26 @@
+.pizza {
+  margin-right: 100px;
+  @include displayRow();
+  padding: 50px;
+
+  .bild {
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+  }
+}
+
+.pizzacalc {
+  width: 400px;
+  height: 700px;
+  padding: 50px;
+  background-color: rgb(247, 112, 112);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .inside {
+    margin: 50px;
+  }
+}

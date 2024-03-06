@@ -1,0 +1,31 @@
+.pizzamenu{
+    margin-left: 200px;
+    // margin-right: 300px;
+   
+  
+    @include displayRow;
+    flex-wrap: wrap;
+
+    .pizzacontainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        height: 350px;
+        background-color: rgb(180, 176, 178);
+        margin: 10px;
+    }
+
+    .des{
+        width: 250px;
+    }
+
+    li{
+        list-style: none;
+    }
+
+    .bild{
+        width: 200px;
+        height: 150px;
+    }
+}

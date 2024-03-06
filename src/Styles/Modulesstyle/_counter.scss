@@ -1,0 +1,28 @@
+.counter{
+    font-size: 20px;
+    @include marginPadding;
+    background-color: gray;
+    padding: 50px;
+}
+
+.counter button{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(66, 66, 66);
+    color: wheat;
+    
+}
+
+.counter input{
+    padding: 20px;
+}
+
+.count{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 205px;
+    margin-right: 180px;
+    padding: 10px;
+    margin-top: 20px;
+}

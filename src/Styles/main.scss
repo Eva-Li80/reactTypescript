@@ -1,0 +1,31 @@
+
+//variables and funtions
+@import "./Functions/mix";
+
+
+//base and layout
+
+//colors
+// @import "./Variables/colors.scss";
+
+//components, button, card, navbar mm
+@import "./Modulesstyle/app";
+@import "./Modulesstyle/header";
+@import "./Modulesstyle/side";
+@import "./Modulesstyle/counter";
+@import "./Modulesstyle/addition";
+@import "./Modulesstyle/changetext";
+@import "./Modulesstyle/colorbox";
+@import "./Modulesstyle/list";
+@import "./Modulesstyle/mouseevent";
+@import "./Modulesstyle/text";
+@import "./Modulesstyle//texttoalert";
+@import "./Modulesstyle/texttodisplay";
+@import "./Modulesstyle/questlist";
+@import "./Modulesstyle/konst";
+@import "./Modulesstyle/pizza";
+@import "./Modulesstyle/pizzamenu";
+@import "./Modulesstyle/pizzacalculator";
+@import "./Modulesstyle/person";
+@import "./Modulesstyle/pretty";
+

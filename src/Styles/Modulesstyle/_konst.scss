@@ -1,0 +1,32 @@
+.konst{
+    @include marginPadding();
+    background-color: grey;
+    color: whitesmoke;
+    @include display();
+    
+
+    .des{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .inp{
+        margin-left: 20px;
+    }
+}
+
+.konst .img{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-right: 20px;
+
+    
+    
+}
+
+.konst .li{
+    padding: 30px;
+    text-decoration: underline;
+    list-style: none;
+}

@@ -1,0 +1,29 @@
+@mixin marginPadding() {
+    margin: 20px;
+    padding: 50px;
+    background-color: gray;
+
+    input{
+        font-size: 20px;
+        margin-right: 10px;
+    }
+
+    button {
+        font-size: 20px;
+    }
+
+}
+
+@mixin display(){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+@mixin displayRow(){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}

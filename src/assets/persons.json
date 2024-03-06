@@ -1,0 +1,24 @@
+{
+    "persons": [
+        {
+            "name": "Carl Larsson",
+            "description": "målningar",
+            "url": "https://www.unrealretro.se/cdn/shop/products/preview_b1242ff2-0f1f-450a-bacd-0e355e4a38fe.jpg?v=1677593136&width=493"
+             
+        },
+        {
+            "name": "Anders Zorn",
+            "description": "målare",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sommarn%C3%B6je_%281886%29%2C_akvarell_av_Anders_Zorn.jpg/1200px-Sommarn%C3%B6je_%281886%29%2C_akvarell_av_Anders_Zorn.jpg"
+
+        }
+        ,
+        {
+            "name": "Hilma af Klint",
+            "description": "abstrakt konst",
+            "url": "https://uploads2.wikiart.org/images/hilma-af-klint/what-a-human-being-is-1910.jpg"
+
+        }
+        
+    ]
+}

@@ -1,0 +1,11 @@
+.questlist{
+    @include marginPadding();
+    background-color: gray;
+    padding: 50px;
+
+    li{
+
+        list-style: none;
+        padding: 10px;
+    }
+}

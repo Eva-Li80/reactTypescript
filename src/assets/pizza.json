@@ -1,0 +1,35 @@
+{
+    "pizza": [
+        {
+            "name": "Vezuvio",
+            "description": "En vesuvio är ofta barnens favorit",
+            "price": "75",
+            "url": "https://eu-central-1.linodeobjects.com/tasteline/2018/06/pizza-vesuvio-liten.jpg",
+            "ingridiensdeg": "0.2 st Jäst Original Färsk, 2.5 dl Vatten, 6 dl Vetemjöl Special, 0.5 dl Olivolja, 1 tsk Salt Fint, 0.5 tsk Strösocker "
+             
+        },
+        {
+            "name": "Margarita",
+            "description": "Pizza Margherita kan vara exakt hur god som helst! ",
+            "price": "80",
+            "url": "https://cdn-rdb.arla.com/Files/arla-se/99915790/066e6057-783e-47cb-812f-56a92cfbfca1.jpg?crop=(0,59,0,-89)&w=1269&h=715&mode=crop&ak=f525e733&hm=dcc4fafd",
+            "ingridiensdeg":  "0.2 st Jäst Original Färsk, 2.5 dl Vatten, 6 dl Vetemjöl Special, 0.5 dl Olivolja, 1 tsk Salt Fint, 0.5 tsk Strösocker "
+        }
+        ,
+        {
+            "name": "Hawai",
+            "description": "Pizzafavorit med skinka och färsk ananas som kommer uppskattas av både stora och små.",
+            "price": "90",
+            "url": "https://static.mathem.se/shared/images/recipes/doublelarge/pizza-hawaii-foto-nurlan-emir-mathem.jpeg",
+            "ingridiensdeg":  "0.2 st Jäst Original Färsk, 2.5 dl Vatten, 6 dl Vetemjöl Special, 0.5 dl Olivolja, 1 tsk Salt Fint, 0.5 tsk Strösocker "
+        },
+        {
+            "name": "Capricciosa",
+            "description": " För många är Capricciosa det självklara pizzavalet, perfekt som fredagsmiddag! ",
+            "price": "110",
+            "url": "https://cdn-rdb.arla.com/Files/arla-se/3617868517/ffc66039-0870-4fd3-a482-c2a8c37f3fad.jpg?crop=(0,14,0,-134)&w=1269&h=715&mode=crop&ak=f525e733&hm=b14f0270",
+            "ingridiensdeg":  "0.2 st Jäst Original Färsk, 2.5 dl Vatten, 6 dl Vetemjöl Special, 0.5 dl Olivolja, 1 tsk Salt Fint, 0.5 tsk Strösocker "
+        }
+        
+    ]
+}
